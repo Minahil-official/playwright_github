@@ -1,0 +1,6 @@
+description = "Generate the Image"
+prompt = """
+{{args}}
+1. use playwright to open google gemini sign in if not then use nano banana tool inside the google gemini
+for creation of image and then it will iterate over the image if its good or not  after creating the image  save  only the filnal image it in a 
+file name'command image.png' and then push it to my github repo 'https://github.com/Minahil-official/playwright_github' """

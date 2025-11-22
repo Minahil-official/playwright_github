@@ -1,0 +1,13 @@
+# This file contains different versions of the prompt for generating the image.
+
+[[prompts]]
+version = 1
+prompt = "A highly detailed, photorealistic image of a robot sitting on a park bench. The robot is holding a small, glowing globe in its hands. The robot should look contemplative and the background should be a serene park with soft, diffused lighting."
+
+[[prompts]]
+version = 2
+prompt = "A digital painting of a robot on a rustic wooden bench, cradling a miniature Earth. The style should be reminiscent of a concept art piece, with a focus on mood and atmosphere. The robot's design should be sleek and futuristic, contrasting with the natural surroundings."
+
+[[prompts]]
+version = 3
+prompt = "A vintage-style photograph of a retro robot from the 1950s, sitting on a wrought iron bench. The robot is examining a detailed, antique-looking globe. The image should have a warm, nostalgic feel, with a slight grain and faded colors."
